@@ -9,9 +9,8 @@
         <a class="navbar-item" @click.prevent="navigateTo('user')">User</a>
 
         <a class="navbar-item" @click.prevent="navigateTo('item')">Item</a>
-
         <a class="navbar-item" @click.prevent="navigateTo('transaction')"
-          >Transaction</a
+          >transaction</a
         >
       </div>
     </div>
